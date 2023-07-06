@@ -49,7 +49,7 @@ const Main = () => {
   };
 
   return (
-    <Layout className="h-screen w-full">
+    <Layout className="h-screen w-full flex flex-row">
       <Sider
         className={
           collapsed
