@@ -2,7 +2,7 @@
 
 > Free React Admin Dashboard made with Ant Design components and React.
 
-![preview](public/assets/dashboard.png)
+![preview](src/assets/images/dashboard.png)
 
 # Starter Admin Dashboard Template
 
